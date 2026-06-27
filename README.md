@@ -111,4 +111,4 @@ This matches the project brief's exact modeling objective: *predict lead time gi
 | 📓 Notebook | This repository |
 | 📄 Research Paper | https://zenodo.org/records/20957848 |
 | 🌐 Streamlit App | https://project1umrochak.streamlit.app/ |
-| 🎥 Project Video | [Add your video link here] |
+| 🎥 Project Video | https://drive.google.com/file/d/1nUfgbt45OL-UUci7WfBd6rEmcLTcARi5/view?usp=sharing|
