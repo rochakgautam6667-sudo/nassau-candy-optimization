@@ -109,6 +109,6 @@ This matches the project brief's exact modeling objective: *predict lead time gi
 | Resource | Link |
 |---|---|
 | 📓 Notebook | This repository |
-| 📄 Research Paper | [Add your Zenodo link here] |
+| 📄 Research Paper | https://zenodo.org/records/20957848 |
 | 🌐 Streamlit App | https://project1umrochak.streamlit.app/ |
 | 🎥 Project Video | [Add your video link here] |
